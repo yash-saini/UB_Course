@@ -7,17 +7,13 @@ This repository caters to having reviews of various Master's level courses acros
 
 ### *CSE 531 :- Analysis of Algorithms (By Professor Shi Lee)*
 
-- A lot of learning will happen
+- One of the best courses to be taken at UB to learn in depth about algorithms.
 - 2 major programming assignments and 5-6 homework assignments.
-- One final exam
-- One of the best courses to be taken at UB.
+- One final exam.
+- Focussing on the PPTs given by the professor will help alot in solving the assignments and preparing for the final exam.
+- This course is highly recommended for the masters level students to get wider glimpse of the numerous algorithmic techniques.
 
-### *CSE 5 :- Analysis of Algorithms (By Professor Shi Lee)*
 
-- A lot of learning will happen
-- 2 major programming assignments and 5-6 homework assignments.
-- One final exam
-- One of the best courses to be taken at UB.
 
 ### *CSE 573 Introduction to Computer Vision & Image Processing ( By Professor Nalini Ratha)*
 - Mid term and final term exams are MCQs
@@ -74,4 +70,4 @@ This repository caters to having reviews of various Master's level courses acros
 
 ---
 ## Contributors 
-- Yash Saini
+- Yash Saini (https://www.linkedin.com/in/yash-saini/)
