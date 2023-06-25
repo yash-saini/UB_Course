@@ -38,3 +38,8 @@ This repository caters to having reviews of various Master's level courses curre
 - One final exam.
 - One semester long project to be made covering the web application + Blockchain.
 - A good course to learn about blockchain fundamentals
+
+
+---
+## Contributors 
+- Yash Saini
