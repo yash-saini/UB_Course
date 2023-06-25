@@ -39,6 +39,38 @@ This repository caters to having reviews of various Master's level courses curre
 - One semester long project to be made covering the web application + Blockchain.
 - A good course to learn about blockchain fundamentals
 
+### *CSE 567 Computational Linguistics ( By Professor Cassandra Jacobs)*
+
+- One of the best professors in UB!
+- Sweet professor who is always there to solve your doubts and accommodate late submission requests.
+- No exams in this course!
+- Two group assignments (5-6 people in one group)
+- Rest are coding and short answer assignments.
+- One must definitely take this course to learn about linguistics practically.
+
+### *CSE 560 Data Models and Query Language ( By Professor Shamsad Parvin)*
+- Total 4-5 homeworks.
+- Every week there is a quiz. Can be given from home.
+- Mid term and final term exam carry high weightage (25% each). Therefore, performing well in the exams is imperative to score a high grade. In addition, final term exam consists of post mid term syllabus.
+- Studying the PPTs given by the professor helps alot in exams.
+- One semester long project to be made using PostgreSQL. 
+- Absolute grading happens in this course i.e (95% + is A)
+- Overall the course is kind enough to those who practise regularly.
+
+### *CSE 589 Modern Networking Concepts ( By Professor Chunming Qiao)*
+
+- One of the most intensive and exhaustive courses taught at UB irrespective of the professor.
+- Two long and complex programming assignments (carry 40% weightage).
+- Mid term and end term exam are tough.to crack.
+- Labs and homeworks. Number vary as per the course duration (different in spring and fall)
+- Overall you will be occupied all through the semester. Take this course only to complete your hardware requirements.
+
+### *CSE 666 Biometrics and Image Analysis ( By Professor Nalini Ratha)*
+- No exam as it is a 600-level course.
+- Completes your AI specialization.
+- Students have to give one research paper presentation from the list of papers given by the professor.
+- Two programming assignments which are equivalent to mini-projects.
+- One semester long project (50% weightage). 
 
 ---
 ## Contributors 
